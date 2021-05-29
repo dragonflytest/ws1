@@ -1,0 +1,21 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "be54ba52-8658-430b-85b4-e4d9a10eae31",
+    "TemplateName": "Discovery Template From New Node",
+    "Description": "Discovery Template From New Node",
+    "TemplateType": 4,
+    "TemplateAuthor": "tester",
+    "ReleaseDateVersion": "07/30/2020 05:21:28",
+    "TemplateFolderPath": "/tmp/rapid/repo/discovery-templates/discovery-template-from-new-node",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 3,
+    "IsPromoted": false,
+    "TemplateVersion": "1",
+    "TemplateOwner": "tester",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "tester",
+    "TemplateModifiedDate": "07/30/2020 05:21:28",
+    "TemplateTypeColor": null,
+    "TemplateIconPath": null
+  }
+}

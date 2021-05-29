@@ -1,0 +1,10 @@
+{
+  "SnippetId": "c41b2742-260a-4267-9b9a-0a6c7787aaae",
+  "SnippetName": "Python",
+  "SnippetAuthor": "tester",
+  "ReleaseDateVersion": "11/11/2020 03:28:14",
+  "SnippetModifiedBy": "abitha",
+  "SnippetModifiedDate": "03/08/2021 05:05:38",
+  "Description": "Bls",
+  "Snippet": "---\n- name: Reset the lab network in preparation for the demo1\n  hosts: localhost\n  gather_facts: no\n  connection: local\n\n  tasks:\n\n  - name: show env\n    shell: printenv\n    register: output\n\n  - name: show env\n    debug: \n      msg: \u0022{{output}}\u0022"
+}
