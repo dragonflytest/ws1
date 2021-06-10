@@ -4,8 +4,8 @@
   "SnippetAuthor": "abitha",
   "ReleaseDateVersion": "06/10/2021 13:50:14",
   "SnippetModifiedBy": "abitha",
-  "SnippetModifiedDate": "06/10/2021 13:50:14",
-  "Description": "sdfdsfds",
+  "SnippetModifiedDate": "06/10/2021 13:52:53",
+  "Description": "sdfdsfdszxcfdsfdsfsdansbdajsda adghadsfgahsjdfghjs adfagdfjahdfgaksjf asdfhagsdjfagsdfjsagfjgadhjsfgsaj ahsdfghajdfgashjdfgasjfhadsgfajhdsfgjfhg ahfjagsdjhfaghjdsfgashjfgasjdfgasd adgjahsfghjaghadjgfhajsfgahjsdgfhjadsfgahjsdfgahsjdfgdasgashjfg hadgfasdgfhjasfdghadjsfgadfhjgasdjfgadksjfgasdfjgasdhkjfgasdkhjfgasdhjkf hadsgfhjadsgfdhjsafg adshfghasdfgahsdfgdashjfg adhfgasdjfgasjhdfgajsdhfgahjsdfgajdhsfghdsafg ahdgfhjasdgfhjasdfgasdfgasdfkadsg asdfghjagsdfhjagsdfhjasdgfhjadsgfhadsjfgwuqyeruiwqeryquiew uewqryuqiweyqwoiu uqwyeuqw. uiqewyruieqwryquiwey iue yoieryiuewryuieqwyr uiqewryuiwery uqweryuewryeuwryeuw qewyriqweyrewryiuqwe uqweyruiqweryuiewqryeqwiuryeqwuiry yqueryuqweyruiewqyruiewqyriuqweyr quwerweqyrqweruyewuiryewuiryeuwryuiweryh uqweryuiwqeryuewryiuweqryiuewyuiqweyruiq qewyriuqwerywqeuiryeqwuiryqewiryq ",
   "Snippet": "- name: Basic set stats testing \n  hosts: localhost\n  connection: local\n  gather_facts: false\n\n  vars:\n    my_input: \u0022{{ element1.var.my_var }}\u0022 #settable\n    my_string_input: \u0022Hello here we are {{ element1.var.my_var }}\u0022 #settable\n\n  tasks:    \n    - debug:\n        var: my_input\n\n    - debug:\n        msg: \u0022my_input is {{ my_input | type_debug }}\u0022\n  \n    - debug:\n        var: my_string_input\n\n    - debug:\n        msg: \u0022my_string_input is {{ my_string_input | type_debug }}\u0022",
   "IsGlobal": false
 }
