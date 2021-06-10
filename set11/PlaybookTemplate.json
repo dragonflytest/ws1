@@ -6,7 +6,7 @@
     "TemplateType": 2,
     "TemplateAuthor": "abitha",
     "ReleaseDateVersion": "06/10/2021 13:09:53",
-    "TemplateFolderPath": "/tmp/rapid/repo/workspace/e91b0000-9b0e-f2c0-ee6d-08d924c6c12c//set11",
+    "TemplateFolderPath": "/tmp/rapid/repo/workspace/e91b0000-9b0e-f2c0-ee6d-08d924c6c12c/set11",
     "IsDevTestEnvironmentsOnly": true,
     "UsageCount": 0,
     "IsPromoted": false,
@@ -16,7 +16,7 @@
     "TemplateModifiedBy": "abitha",
     "TemplateModifiedDate": "06/10/2021 13:09:53",
     "TemplateTypeColor": null,
-    "TemplateIconPath": null,
+    "TemplateIconPath": "/images/custom-icons/127c.png",
     "UseLocalZone": true,
     "IsGlobal": false
   }
