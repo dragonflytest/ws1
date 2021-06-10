@@ -1,4 +1,4 @@
-- name: Basic set stats testing 
+- name: Basic set stats testing 56
   hosts: localhost
   connection: local
   gather_facts: false
