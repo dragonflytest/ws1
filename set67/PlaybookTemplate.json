@@ -2,7 +2,7 @@
   "TemplateDescription": {
     "TemplateId": "cfb24f6e-b5fd-4849-96a1-7f30173b8433",
     "TemplateName": "set67",
-    "Description": "sdf",
+    "Description": "sdfsdf",
     "TemplateType": 2,
     "TemplateAuthor": "abitha",
     "ReleaseDateVersion": "06/10/2021 13:14:30",
@@ -10,13 +10,13 @@
     "IsDevTestEnvironmentsOnly": true,
     "UsageCount": 0,
     "IsPromoted": false,
-    "TemplateVersion": "sdf",
+    "TemplateVersion": "sdfsdf",
     "TemplateOwner": "abitha",
     "IsFavourite": false,
     "TemplateModifiedBy": "abitha",
     "TemplateModifiedDate": "06/10/2021 13:14:30",
     "TemplateTypeColor": null,
-    "TemplateIconPath": "/images/custom-icons/fire.svg",
+    "TemplateIconPath": "/images/custom-icons/change-02.svg",
     "UseLocalZone": true,
     "IsGlobal": false
   }
