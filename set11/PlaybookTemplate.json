@@ -1,0 +1,23 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "2568bfcd-0dec-48b8-8f3d-c10ba5b388a7",
+    "TemplateName": "set11",
+    "Description": "wf",
+    "TemplateType": 2,
+    "TemplateAuthor": "abitha",
+    "ReleaseDateVersion": "06/10/2021 13:09:53",
+    "TemplateFolderPath": "/tmp/rapid/repo/workspace/e91b0000-9b0e-f2c0-ee6d-08d924c6c12c//set11",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "wdf",
+    "TemplateOwner": "abitha",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "abitha",
+    "TemplateModifiedDate": "06/10/2021 13:09:53",
+    "TemplateTypeColor": null,
+    "TemplateIconPath": null,
+    "UseLocalZone": true,
+    "IsGlobal": false
+  }
+}
