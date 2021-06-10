@@ -1,0 +1,23 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "6ba842fa-581a-44b1-b499-76e8211ed79f",
+    "TemplateName": "yyt1",
+    "Description": "yyt",
+    "TemplateType": 2,
+    "TemplateAuthor": "abitha",
+    "ReleaseDateVersion": "06/10/2021 01:01:16",
+    "TemplateFolderPath": "/tmp/rapid/repo/workspace/e91b0000-9b0e-f2c0-ee6d-08d924c6c12c//yyt1",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "yyt",
+    "TemplateOwner": "abitha",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "abitha",
+    "TemplateModifiedDate": "06/10/2021 01:01:16",
+    "TemplateTypeColor": null,
+    "TemplateIconPath": null,
+    "UseLocalZone": true,
+    "IsGlobal": false
+  }
+}
