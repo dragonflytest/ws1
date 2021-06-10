@@ -1,0 +1,12 @@
+- name: Basic set stats testing
+  hosts: localhost
+  connection: local
+  gather_facts: false
+
+  tasks:
+    - set_stats:
+        data:
+          my_var:
+            item1: "Hello"
+            item2: "World"
+            item3: "People"

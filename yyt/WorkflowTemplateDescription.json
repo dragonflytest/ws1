@@ -1,0 +1,21 @@
+{
+  "TemplateId": "9e0d6c0a-03cd-4a99-9aeb-d8e1f8ecf909",
+  "TemplateName": "yyt",
+  "Description": "yyt",
+  "TemplateType": 1,
+  "TemplateAuthor": "abitha",
+  "ReleaseDateVersion": "06/10/2021 00:58:52",
+  "TemplateFolderPath": "/tmp/rapid/repo/workspace/e91b0000-9b0e-f2c0-ee6d-08d924c6c12c//yyt",
+  "IsDevTestEnvironmentsOnly": true,
+  "UsageCount": 0,
+  "IsPromoted": false,
+  "TemplateVersion": "yyt",
+  "TemplateOwner": "abitha",
+  "IsFavourite": false,
+  "TemplateModifiedBy": "abitha",
+  "TemplateModifiedDate": "06/10/2021 00:58:52",
+  "TemplateTypeColor": "AnsibleElements",
+  "TemplateIconPath": null,
+  "UseLocalZone": false,
+  "IsGlobal": false
+}
