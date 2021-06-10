@@ -1,0 +1,45 @@
+---
+- name: Playbook that create global variables that can be used by other playbooks in the workflow
+  hosts: localhost
+  gather_facts: no
+  connection: local
+
+  vars_prompt: 
+    - name: username
+      prompt: "What is your username?"
+      private: no
+
+    - name: password
+      prompt: "What is your password?"
+
+  vars: 
+    in_string: "string value" #settable
+    in_num: 5 #settable
+    in_dict: 
+        value1: "a"
+        value2: "b"
+
+  tasks:
+
+  # any data that is defined under set_stats it automatically exported into
+  # a global variable pool that can be used by other elements in the workflow
+
+  - name: create variables and export them to the global variable pool
+    set_stats:
+      data:
+        var_string: "this is a string"
+        var_number: 5
+        var_bool: true
+        var_list: 
+          - 1
+          - 2
+          - 3
+        var_dict: 
+          key1: "value1"
+          key2: "value2"
+        gen_dict: "{{in_dict}}"
+
+  - name: create a file
+    command: dd if=/dev/urandom bs=1048576 count=1 of=artefacts/bigfile
+
+...

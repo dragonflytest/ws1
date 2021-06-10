@@ -1,0 +1,21 @@
+{
+  "TemplateId": "21c37d00-9070-4cb5-89d4-959323fb7b0e",
+  "TemplateName": "py67",
+  "Description": "asd",
+  "TemplateType": 1,
+  "TemplateAuthor": "abitha",
+  "ReleaseDateVersion": "06/10/2021 12:55:59",
+  "TemplateFolderPath": "/tmp/rapid/repo/workspace/e91b0000-9b0e-f2c0-ee6d-08d924c6c12c//py67",
+  "IsDevTestEnvironmentsOnly": true,
+  "UsageCount": 0,
+  "IsPromoted": false,
+  "TemplateVersion": "asd",
+  "TemplateOwner": "abitha",
+  "IsFavourite": false,
+  "TemplateModifiedBy": "abitha",
+  "TemplateModifiedDate": "06/10/2021 12:55:59",
+  "TemplateTypeColor": "DiscoveryAnsibleElements",
+  "TemplateIconPath": null,
+  "UseLocalZone": false,
+  "IsGlobal": false
+}
